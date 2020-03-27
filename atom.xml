@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>厚诺科技</title>
+  
+  <subtitle>厚诺技术团队</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://tech.honops.com/"/>
+  <updated>2020-03-27T06:05:48.993Z</updated>
+  <id>http://tech.honops.com/</id>
+  
+  <author>
+    <name>honops</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>利用蓝鲸标准运维实现Oracle DataGuard一键切换</title>
+    <link href="http://tech.honops.com/2020/03/26/blueking-oracle-dataguard/"/>
+    <id>http://tech.honops.com/2020/03/26/blueking-oracle-dataguard/</id>
+    <published>2020-03-26T09:47:39.000Z</published>
+    <updated>2020-03-27T06:05:48.993Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;什么是标准运维&lt;/p&gt;
+&lt;p&gt;标准运维是一套通过成熟稳定的任务调度引擎，把多系统间的工作整合到一个流程，助力运维实现跨系统调度自动化的’SaaS’应用。标准运维拥有可视化的图形界面，用户可通过它实现任务流程编排和执行，包括发布、变更、开区、扩缩容等执行类操作场景。作为蓝鲸体
+      
+    
+    </summary>
+    
+    
+      <category term="运维" scheme="http://tech.honops.com/categories/%E8%BF%90%E7%BB%B4/"/>
+    
+    
+      <category term="运维" scheme="http://tech.honops.com/tags/%E8%BF%90%E7%BB%B4/"/>
+    
+      <category term="标准运维" scheme="http://tech.honops.com/tags/%E6%A0%87%E5%87%86%E8%BF%90%E7%BB%B4/"/>
+    
+      <category term="oracle" scheme="http://tech.honops.com/tags/oracle/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>利用蓝鲸标准运维实现应用自动发布（持续交付）</title>
+    <link href="http://tech.honops.com/2020/03/26/blueking-cd/"/>
+    <id>http://tech.honops.com/2020/03/26/blueking-cd/</id>
+    <published>2020-03-26T07:47:39.000Z</published>
+    <updated>2020-03-26T09:19:28.160Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;在上一篇文章《利用蓝鲸标准运维实现Oracle DataGuard一键切换》文章中，我们介绍了利用标准运维实现Oracle ADG切换的场景。本文是蓝鲸标准运维使用场景的第二篇，通过一个企业常见的应用发布场景，介绍标准运维在发版流程编排方面的使用。&lt;/p&gt;
+&lt;p&gt;标准运维简
+      
+    
+    </summary>
+    
+    
+      <category term="运维" scheme="http://tech.honops.com/categories/%E8%BF%90%E7%BB%B4/"/>
+    
+    
+      <category term="运维" scheme="http://tech.honops.com/tags/%E8%BF%90%E7%BB%B4/"/>
+    
+      <category term="自动发布" scheme="http://tech.honops.com/tags/%E8%87%AA%E5%8A%A8%E5%8F%91%E5%B8%83/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>配置企业微信发送蓝鲸告警信息</title>
+    <link href="http://tech.honops.com/2020/03/26/blueking-wework/"/>
+    <id>http://tech.honops.com/2020/03/26/blueking-wework/</id>
+    <published>2020-03-26T06:47:39.000Z</published>
+    <updated>2020-03-26T09:12:50.873Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;蓝鲸故障自愈介绍&lt;/p&gt;
+&lt;p&gt;在蓝鲸平台上，故障自愈是行业领先的”故障自动化处理”解决方案，提升企业的服务可用性和降低故障处理的人力投入，实现故障自愈从”人工处理”到”无人值守”的变革!通过自动化处理节省人力投入，通过预定的恢复流程让恢复过程更可靠，通过并行分析达到更快的
+      
+    
+    </summary>
+    
+    
+      <category term="运维" scheme="http://tech.honops.com/categories/%E8%BF%90%E7%BB%B4/"/>
+    
+    
+      <category term="运维" scheme="http://tech.honops.com/tags/%E8%BF%90%E7%BB%B4/"/>
+    
+      <category term="告警" scheme="http://tech.honops.com/tags/%E5%91%8A%E8%AD%A6/"/>
+    
+      <category term="故障自愈" scheme="http://tech.honops.com/tags/%E6%95%85%E9%9A%9C%E8%87%AA%E6%84%88/"/>
+    
+  </entry>
+  
+</feed>
